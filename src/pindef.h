@@ -10,7 +10,7 @@
 #define brewPin       PC14
 #define relayPin      PA15
 #define dimmerPin     PA1
-#define steamPin      PC15
+#define steamPin      PA4
 #define valvePin      PC13
 
 #define HX711_sck_1   PB0
