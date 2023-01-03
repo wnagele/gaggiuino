@@ -12,7 +12,7 @@
 #define brewPin       PC14
 #define relayPin      PA15
 #define dimmerPin     PA1
-#define steamPin      PC15
+#define steamPin      PA4
 #define valvePin      PC13
 #if defined(SINGLE_BOARD)
 #define waterPin      PB15
